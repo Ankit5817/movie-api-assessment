@@ -1,0 +1,48 @@
+{
+  "movies": [
+    {
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_SX300.jpg",
+      "title": "Dangal",
+      "actors": "Aamir Khan, Sakshi Tanwar, Fatima Sana Shaikh",
+      "plot": "Former wrestler Mahavir Singh Phogat and his two wrestler daughters struggle towards glory at the Commonwealth Games in the face of societal oppression.",
+      "director": "Nitesh Tiwari",
+      "genre": "Action, Biography, Drama",
+      "runtime": "161 min",
+      "rating": 10,
+      "id": 1
+    },
+    {
+      "poster": "https://m.media-amazon.com/images/M/MV5BN2YzNjU4MTYtMzY5OS00ODg0LTkxMTUtNjg0YjRkYzI5ZWJjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+      "title": "Runway 34",
+      "actors": "Ajay Devgn, Amitabh Bachchan, Rakul Preet Singh",
+      "plot": "Inspired by true incidents, \"Runway 34\" revolves around Captain Vikrant Khanna played by Ajay Devgn, a flying prodigy, whose flight takes a mysterious course after take-off from an international destination.",
+      "director": "Ajay Devgn",
+      "genre": "Drama, Thriller",
+      "runtime": "145 min",
+      "rating": 8,
+      "id": 2
+    },
+    {
+      "poster": "https://m.media-amazon.com/images/M/MV5BYWVlMjVhZWYtNWViNC00ODFkLTk1MmItYjU1MDY5ZDdhMTU3XkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_SX300.jpg",
+      "title": "Baahubali: The Beginning",
+      "actors": "Prabhas, Rana Daggubati, Ramya Krishnan",
+      "plot": "In ancient India, an adventurous and daring man becomes involved in a decades-old feud between two warring peoples.",
+      "director": "S.S. Rajamouli",
+      "genre": "Action, Drama",
+      "runtime": "159 min",
+      "rating": 9,
+      "id": 3
+    },
+    {
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTUzNTc3MTU3M15BMl5BanBnXkFtZTcwMzIxNTc3NA@@._V1_SX300.jpg",
+      "title": "Cars 2",
+      "actors": "Owen Wilson, Larry the Cable Guy, Michael Caine",
+      "plot": "Star race car Lightning McQueen and his pal Mater head overseas to compete in the World Grand Prix race. But the road to the championship becomes rocky as Mater gets caught up in an intriguing adventure of his own: international e...",
+      "director": "John Lasseter, Bradford Lewis",
+      "genre": "Animation, Adventure, Comedy",
+      "runtime": "106 min",
+      "rating": 7,
+      "id": 5
+    }
+  ]
+}
